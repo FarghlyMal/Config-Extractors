@@ -9,7 +9,7 @@ def decrypter(data_string,data_key):
 #    print(_key)
     decode = []
     for i in range(0,len(data_bytes)):
-        decode.append(data_bytes[i] ^ _key[i % 90])
+        decode.append(data_bytes[i] ^ _key[i % 90])    # you can replace 90 with len(_key) 
         
         data = Make_String_table(decode)
     return data
