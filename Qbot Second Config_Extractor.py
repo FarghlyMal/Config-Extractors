@@ -1,5 +1,6 @@
-import pefile
-
+import pefile                                               # hash of loader            7FC3F5E06BBAAD459AF71D3C0D28C51B7802546984F886F14A1B12A779FFF6F8
+                                                            # hash of 32-bit dll(Qbot)  4229F9F1C316C207783F484BA2BC518074180F87DDB01E47328A4F6F23F97089
+    
 filename = 'file path'                                                           # enter file path here
 max_size = b'36F4'                                                               # Max size granted from the sample
 
