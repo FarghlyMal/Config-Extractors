@@ -2,7 +2,7 @@ import binascii
 import sys
 import struct
 import pefile
-filename = 'C:\\Users\\Hack\\Desktop\\Zero2Auto\\04\\web_inject_ldr\\rsc1.dump'
+filename = sys.argv[1]
 def get_data_key():
 #    val = input("Enter Hex Val passed to Decryption Function")
     pe  = pefile.PE(filename)
