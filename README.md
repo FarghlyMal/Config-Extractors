@@ -1,1 +1,1 @@
-# QBotConfig-Extractor
+# Malwares Decryptors 
