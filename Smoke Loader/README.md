@@ -1,4 +1,5 @@
-#Decrypted Config
+# Decrypted Config
+
 b'https://dns.google/resolve?name=microsoft.com'
 b'Software\\Microsoft\\Internet Explorer'
 b'advapi32.dll'
