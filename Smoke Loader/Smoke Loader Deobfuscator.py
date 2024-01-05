@@ -1,3 +1,7 @@
+# ref "https://docs.google.com/document/d/10vH-viRghPPg-TD1K2mvOfYktkUS7oGBDVRis--Fp4M/edit?usp=drive_link"  @FarghlyMal
+# ref "https://n1ght-w0lf.github.io/malware%20analysis/smokeloader/"  @_n1ghtw0lf
+# ref "https://research.openanalysis.net/smoke/smokeloader/loader/config/yara/triage/2022/08/25/smokeloader.html"  @herrcore
+
 import pefile
 import binascii
 import struct
