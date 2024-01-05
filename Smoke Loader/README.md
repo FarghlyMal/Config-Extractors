@@ -7,6 +7,8 @@ My article :) --> [Aziz Farghly](https://docs.google.com/document/d/10vH-viRghPP
 C6BA6E91D40AA1507775077F9662ECB25C9F0943\
 B450EB89D7EA250547333228E6820A52F22BABB2
 
+# Extracted C2
+hxxp://185.215.113.68/fks/index.php
 # Decrypted Config
 
 b'https://dns.google/resolve?name=microsoft.com'
