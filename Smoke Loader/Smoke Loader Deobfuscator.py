@@ -2,6 +2,8 @@
 # ref "https://n1ght-w0lf.github.io/malware%20analysis/smokeloader/"  @_n1ghtw0lf
 # ref "https://research.openanalysis.net/smoke/smokeloader/loader/config/yara/triage/2022/08/25/smokeloader.html"  @herrcore
 
+# this script will help you to fix and decrypt the encrypted function which makes our analysis harder.
+
 import pefile
 import binascii
 import struct
