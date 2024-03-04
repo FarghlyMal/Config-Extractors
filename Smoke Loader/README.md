@@ -1,7 +1,7 @@
 # Refs
 [oalabs](https://research.openanalysis.net/smoke/smokeloader/loader/config/yara/triage/2022/08/25/smokeloader.html)\
 [n1ght-w0lf](https://n1ght-w0lf.github.io/malware%20analysis/smokeloader/)\
-My article :) --> [Aziz Farghly](https://docs.google.com/document/d/10vH-viRghPPg-TD1K2mvOfYktkUS7oGBDVRis--Fp4M/edit?usp=drive_link)
+My article :) --> [Aziz Farghly](https://farghlymal.github.io/SmokeLoader-Analysis/)
 
 # Hashes
 C6BA6E91D40AA1507775077F9662ECB25C9F0943\
